@@ -1,3 +1,3 @@
 I like making cool things, however I'm currently in the process of moving all my projects from GitHub on to my own personal Gitea instance. If you are trying to find something that I've worked on and can no longer find it here then I would recommend checking out: https://git.nicholemattera.com/
 
-If you are looking to collaborate with one or more of my projects then you can feel free to fork my code here on to GitHub. If you would like for me to consider pulling your changes into my repo, then please contact me on Discord at: NicholeMattera 🌈#9097
+If you are looking to collaborate with one or more of my projects then you can feel free to fork my code here on to GitHub. If you would like for me to consider pulling your changes into my repo, then please contact me on Discord ([NicholeMattera 🌈#9097](https://discord.com/users/180833022025793537)) or on Twitter ([NicholeMattera](https://twitter.com/NicholeMattera)).
